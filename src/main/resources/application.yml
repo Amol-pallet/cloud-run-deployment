@@ -1,0 +1,9 @@
+app:
+  security:
+    enabled: true
+  io-logging:
+    enabled: true
+version: v1.3
+ENV: local
+server:
+  port: 8082
